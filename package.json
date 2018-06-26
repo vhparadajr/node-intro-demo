@@ -1,0 +1,11 @@
+{
+  "name": "intro-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "test": "try"
+  },
+  "author": "",
+  "license": "ISC"
+}
